@@ -1,1 +1,1 @@
-# piQuantum
+pip install -r requirements.txt
