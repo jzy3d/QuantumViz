@@ -80,6 +80,7 @@ def main():
     renderer.GetActiveCamera().Elevation(30)
     renderer.ResetCameraClippingRange()
 
+
     renderer.SetBackground(colors.GetColor3d('Silver'))
     renderWindow.Render()
     renderWindowInteractor.Start()
